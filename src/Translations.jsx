@@ -1,12 +1,12 @@
 function Translations() {
   return (
     <>
-      <h2 style={{ fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" }}>Latvian/latviešu (lv)</h2>
+      <h2 style={{ fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" }}>Gherkin termini </h2>
       <table border="1" cellPadding="8" style={{ fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif", fontSize: '14px' }}>
         <thead>
           <tr>
-            <th>Keyword</th>
-            <th>Equivalent(s)</th>
+            <th>Angļu valodā</th>
+            <th>Latviešu valodā</th>
           </tr>
         </thead>
         <tbody>
